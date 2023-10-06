@@ -1,0 +1,25 @@
+body{
+margin:0;
+padding:0;
+text-align:center;
+font-family: arial;
+
+
+}
+
+.conteudo{
+border: 2px solid black;
+width: 1024px;
+heith: 640px;
+display: flex;
+justify-content: space-evenly;
+}
+
+
+.topo{
+border: 2px solid black;
+width: 1024px;
+heith: 50px;
+display: flex;
+justify-content: space-evenly;
+}
